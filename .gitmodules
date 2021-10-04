@@ -8,3 +8,8 @@
 	url = https://github.com/VABAR/vibass
 	shallow = true
 	registered = true
+[submodule "INLA"]
+	path = INLA
+	url = https://github.com/inbo/INLA
+	shallow = true
+	registered = false
