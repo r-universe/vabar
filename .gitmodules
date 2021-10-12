@@ -3,11 +3,6 @@
 	url = https://github.com/vabar/universe
 	shallow = true
 	branch = HEAD
-[submodule "vibass"]
-	path = vibass
-	url = https://github.com/VABAR/vibass
-	shallow = true
-	registered = true
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/inbo/INLA
