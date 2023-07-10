@@ -5,3 +5,6 @@
 [submodule "vibass"]
 	path = vibass
 	url = https://github.com/VABAR/vibass
+[submodule "INLA"]
+	path = INLA
+	url = https://inla.r-inla-download.org/R/stable
