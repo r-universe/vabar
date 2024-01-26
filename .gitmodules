@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/vabar/universe
+	url = https://github.com/vabar/vabar.r-universe.dev
 	branch = HEAD
 [submodule "INLA"]
 	path = INLA
